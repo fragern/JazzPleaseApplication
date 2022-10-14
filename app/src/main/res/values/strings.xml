@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JazzPleaseApplication</string>
+    <string name="day">DAY</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="details">details will be announced soon</string>
+    <string name="jan10">10 January</string>
+    <string name="jan11">11 January</string>
+    <string name="jan12">12 January</string>
+    <string name="news1_time">15/10/2019 22:10</string>
+    <string name="news1_title">Taylor Swift Cover Phil Collins\'</string>
+    <string name="news1_subtitle">\'Can\'t Stop Loving You\'</string>
+    <string name="news1_by">by Matthew H.</string>
+    <string name="news2_time">17/10/2019 19:00</string>
+    <string name="news2_title">Java Jazz</string>
+    <string name="news2_subtitle">Pecah</string>
+    <string name="news2_by">by Rizka Vanissa Alifia</string>
+</resources>
